@@ -13,9 +13,18 @@ Take the json and process in the comfort of your own code editor.
 
 The main reason I put this together was linked to the difficulties in getting Essentia installed on MacOS.
 
+To json files: 
+
 https://colab.research.google.com/github/rayking99/PyMusicData/blob/main/PyMusicData.ipynb
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rayking99/PyMusicData/blob/main/PyMusicData.ipynb)
+
+To CSV:
+
+https://colab.research.google.com/github/rayking99/PyMusicData/blob/main/PyMusicData_Extended.ipynb
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rayking99/PyMusicData/blob/main/PyMusicData_Extended.ipynb)
+
 
 OUTPUTS (from: https://essentia.upf.edu/streaming_extractor_music.html)
 - loudness_ebu128
