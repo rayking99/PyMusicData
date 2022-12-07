@@ -1,7 +1,8 @@
 # PyMusicData
 This is a quick and easy way to get essentia musicextractor data for your songs.  
 
-Connect your drive, link the songs, analyse! 
+Connect your drive, link the songs, analyse.
+
 (There is time to analyse, Thom!)
 
 Files are downloaded to json.  
