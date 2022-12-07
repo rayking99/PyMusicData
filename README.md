@@ -3,4 +3,4 @@ This is a quick and easy way to get essentia musicextractor data for your songs.
 
 https://colab.research.google.com/github/rayking99/PyMusicData/blob/main/PyMusicData.ipynb
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rayking99/PyMusicData/blob/main/PyMusicData.ipynb]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rayking99/PyMusicData/blob/main/PyMusicData.ipynb)
