@@ -7,7 +7,7 @@ Connect your drive, link the songs, analyse.
 
 Files are downloaded to json.  
 
-This is easy and quick!  
+Easy and quick. 
 
 Take the json and process in the comfort of your own code editor.
 
